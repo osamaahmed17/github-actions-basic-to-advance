@@ -21,10 +21,9 @@ docs/
 ├── Osama_GitHub_Actions.pdf    # Comprehensive GitHub Actions documentation
 python-src/
 ├── script.py           # Python scripts used in workflows
+├── requirements.txt    # Requirement files used by script
 script-src/
 ├── script.sh           # Shell scripts used in workflows
-LICENSE                 # MIT License
-README.md               # This file
 ```
 
 ## Workflow Examples
