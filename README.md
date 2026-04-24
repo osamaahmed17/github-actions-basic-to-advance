@@ -19,6 +19,12 @@ This repository is a comprehensive learning resource for GitHub Actions, contain
     └── jenkins-python-actions/  # Jenkins integration with Python
 docs/
 ├── Osama_GitHub_Actions.pdf    # Comprehensive GitHub Actions documentation
+python-src/
+├── script.py           # Python scripts used in workflows
+script-src/
+├── script.sh           # Shell scripts used in workflows
+LICENSE                 # MIT License
+README.md               # This file
 ```
 
 ## Workflow Examples
